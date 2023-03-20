@@ -1,0 +1,56 @@
+body {
+ background-image: url("background.png");
+ background-attachment: fixed;
+
+}
+
+#menu {
+  font-family: "lato", sans-serif;
+  font-weight: 400;
+  font-size: 50px;
+  letter-spacing: 10px;
+  font-style: italic;
+
+  background: -webkit-linear-gradient(white, #38495a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+#text1 {
+  font-family: "lato", sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: 7px;
+  font-style: italic;
+  
+  background: -webkit-linear-gradient(white, #38495a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#text2 {
+  font-family: "lato", sans-serif;
+  font-weight: 400px;
+  font-size: 20px;
+  letter-spacing: 4px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-style: italic;
+
+ background: -webkit-linear-gradient(white, #38495a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+img {
+  margin-left: 125px;
+  margin-top: -30px;
+  margin-bottom: 50px;
+  width:1250px;
+ 
+
+}
+
+
